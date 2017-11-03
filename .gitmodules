@@ -49,3 +49,9 @@
 [submodule "src/psf"]
 	path = src/psf
 	url = https://github.com/niptk-org/psf
+[submodule "src/SCExAO_DM"]
+	path = src/SCExAO_DM
+	url = https://github.com/SCExAO-RTS-org/SCExAO_DM
+[submodule "src/SCExAO_control"]
+	path = src/SCExAO_control
+	url = https://github.com/SCExAO-RTS-org/SCExAO_control
