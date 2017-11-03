@@ -55,3 +55,6 @@
 [submodule "src/SCExAO_control"]
 	path = src/SCExAO_control
 	url = https://github.com/SCExAO-RTS-org/SCExAO_control
+[submodule "src/cudacomp"]
+	path = src/cudacomp
+	url = https://github.com/niptk-org/cudacomp
