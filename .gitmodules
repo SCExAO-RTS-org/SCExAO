@@ -58,3 +58,9 @@
 [submodule "src/cudacomp"]
 	path = src/cudacomp
 	url = https://github.com/niptk-org/cudacomp
+[submodule "src/kdtree"]
+	path = src/kdtree
+	url = https://github.com/niptk-org/kdtree
+[submodule "src/CommandLineInterface"]
+	path = src/CommandLineInterface
+	url = https://github.com/niptk-org/CommandLineInterface
