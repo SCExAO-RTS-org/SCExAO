@@ -8,7 +8,7 @@
 
 ## Overview
 
-Set of image processing tools and functions accessible through a command line interface (CLI). Holds images in RAM, with image stream support (shared memory with low-latency IPC support).
+SCExAO instrument routines: image analysis, alignment loops etc...
 
 Written in C, optimized for performance.
 
