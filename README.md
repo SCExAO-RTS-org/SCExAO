@@ -21,6 +21,7 @@ FALCON uses the [MILK package](https://github.com/milk-org/MILK)
 The SCExAO package follows the standard git clone steps and GNU build process :
 
 	git clone https://github.com/SCExAO-RTS-org/SCExAO
+	cd SCExAO
 	git submodule init
 	git submodule update
 	autoreconf -i
