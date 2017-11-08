@@ -1,7 +1,4 @@
  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://travis-ci.org/oguyon/Cfits.svg?branch=master)](https://travis-ci.org/oguyon/Cfits)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1154/badge)](https://bestpractices.coreinfrastructure.org/projects/1154)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/596968680753486e8146b764644a604c)](https://www.codacy.com/app/oguyon/Cfits?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=oguyon/Cfits&amp;utm_campaign=Badge_Grade)
 
 
 # SCExAO : Subaru Extreme Adaptive Optics - Real Time System Computer
@@ -12,7 +9,10 @@ SCExAO instrument routines: image analysis, alignment loops etc...
 
 Written in C, optimized for performance.
 
+
 Executable launches a command line interface (CLI). Type "help" in the CLI to get started.
+
+FALCON uses the [MILK package](https://github.com/milk-org/MILK)
 
 
 ## Downloading and installing 
