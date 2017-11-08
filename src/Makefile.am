@@ -30,7 +30,7 @@ SCExAO_LDADD =
 ##
 
 SUBDIRS += SCExAO_DM
-SCExAO_LDADD += SCExAO_DM/libascexaodm.la
+SCExAO_LDADD += SCExAO_DM/libscexaodm.la
 SCExAO_CPPFLAGS += -I@abs_top_srcdir@/src/SCExAO_DM
 
 SUBDIRS += SCExAO_control
